@@ -1,0 +1,32 @@
+.LandingPageImage1{
+background-image: url('../src/SVG/LandingPage1.svg');
+width: 84.257rem;
+overflow: hidden;
+height: 70.5625rem;
+background-position: top right ;
+flex-shrink: 0;
+background-repeat: no-repeat;
+/* border: 2px solid green; */
+
+}
+.SeventhSectionImage{
+    background-image: url('../src/SVG/Rectangle.svg');
+    width: 84.257rem;
+    overflow: hidden;
+    height: 65.5625rem;
+    background-position: cover ;
+    flex-shrink: 0;
+    background-repeat: no-repeat;
+    /* border: 2px solid green;  */
+}
+.SeventhSectionImage2{
+    background-image: url('../src/SVG/Rectangle2.png');
+    background-color: #E7ECFF;
+    width: 84.257rem;
+    overflow: hidden;
+    height: 300px;
+    background-position: cover ;
+    flex-shrink: 0;
+    background-repeat: no-repeat;
+    /* border: 2px solid rgb(38, 0, 128);  */
+}
